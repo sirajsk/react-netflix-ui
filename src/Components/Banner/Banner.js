@@ -3,8 +3,8 @@ import "./Banner.css"
 function Banner() {
     // useEffect(() => {
       
-    // }, [])
-    return (
+    // }, [])    
+    return (       
         <div className='banner'>
             <div className='content'>
                 <h1 className='title'>Movie Name</h1>
